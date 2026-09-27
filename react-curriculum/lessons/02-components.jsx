@@ -12,7 +12,7 @@
 // What you'll learn
 //   JavaScript: modules: import, export, named vs. default, `as`, paths
 //   React:      components are functions, capital letters, composition,
-//               one component per file, keep them pure
+//              one component per file, keep them pure
 // =============================================================================
 
 // These import lines are REAL examples of what PART 1A explains.
@@ -480,9 +480,11 @@ export function Solutions() {
       <Show code="A3" value={solutionA3} />
       <Show code="A4" value={solutionA4} />
       <Show code="A5" value={solutionA5} />
-
       <h3>B · React: the café page</h3>
       <CafePageSolution />
     </div>
   );
 }
+
+
+
